@@ -1,0 +1,47 @@
+/* Custom CSS for better mobile display */
+@media (max-width: 768px) {
+  /* Smaller base font size on mobile */
+  body {
+    font-size: 14px;
+  }
+  
+  /* Better poetry formatting on mobile */
+  .post-content, .page-content, .content {
+    font-size: 13px;
+    line-height: 1.4;
+  }
+  
+  /* Prevent aggressive text wrapping for poetry */
+  .post-content p, .page-content p {
+    white-space: pre-line;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+  }
+  
+  /* Smaller headings on mobile */
+  h1 {
+    font-size: 1.4em !important;
+  }
+  h2 {
+    font-size: 1.2em !important;
+  }
+  h3 {
+    font-size: 1.1em !important;
+  }
+  
+  /* Reduce padding to maximize content space */
+  .wrapper, .container {
+    padding-left: 8px !important;
+    padding-right: 8px !important;
+  }
+  
+  /* Better spacing for chapter links */
+  .post-list li {
+    margin-bottom: 15px;
+  }
+}
+
+/* Ensure poetry lines don't break awkwardly */
+.post-content, .page-content {
+  white-space: pre-line;
+}
