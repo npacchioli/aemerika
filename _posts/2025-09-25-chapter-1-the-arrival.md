@@ -10,82 +10,165 @@ description: "A traveler awakens in a fractured America, encountering the secede
 
 Decades passed  
 As far as I could tell  
-My head pounding from a journey  
-That I hadn't asked for  
+Head pounding  
+Heart racing  
+Feet stuck to the ground  
 
-To the base of a mountain,  
+At the base of a mountain,  
 Capped with dirty wet snow  
 Teeming with moose, wolves, and beasts of all kind  
+They observe, unbothered by my presence  
 
-They're not scared, I wonder why?  
-I pull up my jacket, hoping for any kind of ride  
+The lone road ground down to the bone  
+Offset by the intricate barbed wire  
+Guiding the full stretch of the shoulder  
 
-Disheveled roads, no upkeep,  
-DOT budgets are probably tight  
-Until I arrive at a signpost  
-Route 16; with a silhouette in the mountain  
+Dread creeps in of my unwanted presence  
+Rifling blood down to my legs, as I wander away  
+I arrive at a signpost  
+Barely visible with the gray moon waning  
+Route 16; a silhouette in the mountain  
+"Live Free or Die,"  
+It looks like some had made their choice  
 
-"Live Free or Die,"
-  
-It looks like some populace made its choice  
-As a car approached from behind  
-Camouflaged, dark, certainly unwelcome to any visitors  
+I continue on with a glimmer of hope  
+To come in contact with someone who can provide any clarity  
+Though as soon as my thought finishes, I rue what I had spoken  
+To hear a caravan of vehicles slowly approaching  
 
-Suddenly, with a muzzle in my gut, he yells,  
-"State your business now!"  
-"I'm just a mere traveler, unaware  
-Of the time, the date, or even the year  
+The nearest thicket provides enough cover  
+To hear but not be seen  
+And the fortune of knowing my deep breaths  
+Could not be heard over their motors blaring  
 
-"Liar!"  
-He's careful not to cause a stir in wood  
-"Embarking on these lands unwarranted  
-Could be, for you, extremely costly"  
+Dozens of jeeps, trailers, tanks, and bikes  
+Even three contraptions hovering above the ground!  
+The vehicles are painted fresh  
+Dark blue and gold  
+Peppered with slogans and chants  
+Even a few in French  
 
-He ruffles through my billfold  
-Each card expired, expired, expired  
-"What kind of cheap forgeries are these?  
-You do realize these companies cease to exist?"  
+Slowly they move, like a funeral march  
+Distancing themselves from torment  
+Into the safety of their white capped peaks  
 
-"Sir I beg you, where I am I do not know  
-Pinch me, kick me, smack me  
-Anything to wake me from this dream,  
-This nightmare"  
+I creep out, careful to stay close to the shoulder  
+In case a rogue vehicle has a reason to turn back  
+Transfixed by what's behind,  
+Indifferent to what's in front  
+A stealth vehicle intercepts me,  
+In its crosshairs,  
+I'm a sitting duck at its disposal  
 
-Suddenly convinced, he begins to change his tune  
-"I see it now, you're one of those,  
-Your clothes and your belongings,  
-Are all from a far-gone era"  
+A man bursts out of this Lantern Rouge  
+Camouflaged, coon-skin cap  
+Like a trapper marching towards the Hudson  
 
-"An era you may be wont to know  
-delivered our continent into hysteria  
+His machine gun drawn at the ready  
+He shouts in a thick Quebecois tone  
+"You there!  
+What are you doing?  
+All citizens should know,  
+Trespassing the white mountain is punishment by death!"  
 
-Come, get in, you have no business here  
-Your journey lies south  
-In the continental land  
-From which we in New Hampshire seceded"  
+The ice on the pines wasn't as cold as my blood  
+Frozen to the spot I could barely exclaim  
+"D'd'don't shoot, don't shoot!"  
+I throw my hands in the air  
+Praying to give off the effect  
+A moment of true and honest surrender  
 
-"Ghost stories some call them  
-But too frequent for that  
-Talk of pilgrims like you  
-Haunting us in the moonlight"  
+Gun still raised  
+Unperturbed  
+Not blinking  
+Sucking out all the power I had left in me  
 
-"You're the first I have met, I trust your business is your own  
-I'll take you to the rail that leads to Boston  
-As you begin to weave a narrative  
-On the events that have caused this current state"  
+"Billfold" he shouts "Documents now"  
+Somehow I had my wallet, a minor miracle I suppose  
+He ruffles through it, slower with each card he finds  
+Aghast at what the headlights reveal in the dates  
 
-"Be cautious, yet hasty, use your gut on who to trust  
-But be open to the lost souls  
-Their stories paint our landscape"  
+"Expire, expire, expire, tous les sont expires"  
+He curses in French  
+"Where have you found these cheap knock off forgeries?"  
 
-"I leave you here  
-The coast calls me for international supplies  
-Mind the barbed wire at the border  
-And the guards will cause you no harm  
-Godspeed, he declares  
-I hope you find what you need  
-Often these journeys are internal  
-So from me to you, let your mind and spirit be freed"  
+And finally, perhaps by divine grace  
+He pulls out a photo, me and a smiling family of four  
+A sunkissed backdrop, a perfect golden hour  
+Emitting enough light and radiance  
+To cut through our pale encounter  
+
+Tears in his eyes, he suddenly realized  
+"C'est vrai, cest vrai  
+Everything my friends said  
+I thought they were drunk, or how you say  
+Defonce"  
+
+"They too found lurkers in the forest  
+Abandoned by time.  
+Mon Dieu! And you! Oui, haha!  
+This whole time they were right!"  
+
+"You see, I cry for your family,  
+I have one too  
+I see them, maybe once per year  
+A lonely life of a soldier."  
+
+"But to you, this is nonsense, non"  
+You can't begin to comprehend  
+The dates on your cards are still too old  
+To realize we're at the bottom."  
+
+He lights a cigarette  
+Takes a few puffs and breathes  
+"You see, my duty is on patrol,  
+Boring  
+So I have plenty of time to think."  
+
+"They say you can destroy anything worth building  
+In a moment or an instant  
+But true evil,  
+Cunning evil,  
+How you say, waits, non  
+Bides its time  
+It festers, it rots  
+And then one day, everything is sulfur  
+The smell cannot come out."  
+
+"Until you cut off the hand of the beast  
+That's what we did.  
+We left - we govern ourselves  
+We're figuring it out  
+So it goes allying with the Northern States"  
+"Life isn't kind to us.  
+That's okay  
+But we're free and independent  
+To do as we please."  
+
+"And your family, wherever they are  
+How you get back to them  
+I think….  
+Is only by going south."  
+
+"See what your country has become"  
+
+"I'll take you to the border  
+Please be on garde  
+We're cut off from the states  
+News is hazy, I have no intel  
+With what to warn you."  
+
+"One point for me,  
+A pint to my name  
+If you're kind enough to give me a credit card  
+So my mates know I'm not insane."  
+
+I oblige knowing these cards are useless here  
+Such a small token for benevolence amid this fear  
+I thank him as he dumps me off  
+On a vast open plane  
+In American New England  
+Our expansive wasteland  
 
 ---
 

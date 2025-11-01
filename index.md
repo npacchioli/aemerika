@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Welcome
+title: Homepage
 ---
 
 Hello, and thanks for stopping by.
